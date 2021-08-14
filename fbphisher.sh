@@ -277,7 +277,7 @@ main_menu() {
 
 	if [[ "$REPLY" == 1 || "$REPLY" == 01 ]]; then
 		site_facebook
-
+}
 
 ## Main
 kill_pid
